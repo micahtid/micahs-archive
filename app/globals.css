@@ -147,7 +147,7 @@
   }
 
   .markdown-content ul {
-    @apply mb-3 ml-6 pl-2 list-disc text-[14px];
+    @apply mb-3 ml-0 pl-6 list-disc text-[14px];
   }
 
   .markdown-content ol {
